@@ -37,7 +37,7 @@ Key business questions addressed:
 
 > _Fully interactive Power BI report included in the repository._
 
-![Dashboard Preview](./assets/background_03.png)
+![Dashboard Preview](./assets/customer_behavior_dashboard.png)
 
 ---
 
