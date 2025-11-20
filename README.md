@@ -8,7 +8,7 @@
 
 This project delivers a complete end-to-end analysis of customer shopping behavior using Python, SQL, and Power BI. It explores the factors influencing purchase decisions, revenue contribution, discount sensitivity, product performance, and customer loyalty.
 
-The final output includes a fully interactive Poswer BI dashboard and a business-oriented executive summary with actionable recommendations.
+The final output includes a fully interactive Power BI dashboard, a business-oriented executive summary with actionable recommendations, and a stakeholder presentation (`.pptx`).
 
 ---
 
@@ -68,6 +68,7 @@ Key business questions addressed:
 ├── customer_behavior_data.csv          # Main dataset
 ├── customer_behavior_sql_queries.sql   # SQL analysis
 ├── customer_behavior_dashbord.pbix     # Power BI report (note: filename in repo)
+├── customer_behavior_presentation.pptx # Stakeholder presentation (PowerPoint)
 ├── customer_behavior_executive_summary.pdf/.docx
 ├── requirements.txt
 └── README.md
